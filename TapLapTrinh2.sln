@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapLapTrinh2", "TapLapTrinh2\TapLapTrinh2.csproj", "{1312A7D0-D833-4D2A-B1CF-01724F6417AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1312A7D0-D833-4D2A-B1CF-01724F6417AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1312A7D0-D833-4D2A-B1CF-01724F6417AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1312A7D0-D833-4D2A-B1CF-01724F6417AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1312A7D0-D833-4D2A-B1CF-01724F6417AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {760EC4CF-B0C6-45E6-BB09-C4E6925E1177}
+	EndGlobalSection
+EndGlobal
